@@ -1,0 +1,10 @@
+javaproj\springmvccrud\configuration\MyWebConfig.class
+javaproj\springmvccrud\dao\TrainerDao.class
+javaproj\springmvccrud\dao\TrainerDaoImpl.class
+javaproj\springmvccrud\model\Trainer.class
+javaproj\springmvccrud\service\TrainerServiceImpl.class
+javaproj\springmvccrud\configuration\MyHibernateConfig.class
+javaproj\springmvccrud\controller\MyController.class
+javaproj\springmvccrud\service\TrainerService.class
+javaproj\springmvccrud\dao\AbstractDao.class
+javaproj\springmvccrud\configuration\ServletInitializer.class
